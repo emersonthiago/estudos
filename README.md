@@ -1,1 +1,3 @@
-EXEMPLO DE GITS
+EXEMPLO GIT CLIENTE
+
+---------------------------------
